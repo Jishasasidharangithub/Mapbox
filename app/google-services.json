@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746387581958",
+    "firebase_url": "https://mapboxtracking-default-rtdb.firebaseio.com",
+    "project_id": "mapboxtracking",
+    "storage_bucket": "mapboxtracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746387581958:android:22b572002be578f4836787",
+        "android_client_info": {
+          "package_name": "com.jisha.mapbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746387581958-dhm9gaf7pfuof86p2n24inqbfaep8s9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxWhPT7oDvGaBfhDZxZZHDP3YaqrCCMdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746387581958-dhm9gaf7pfuof86p2n24inqbfaep8s9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746387581958-2g2870vjvj8jnu3jt7nstpps9fug0k59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rating.MapBoxDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
